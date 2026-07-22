@@ -1,0 +1,8 @@
+{
+  "sentinel": { "label": "On-Device Sentinel", "tagline": "Decides what to check — right on your phone" },
+  "transaction": { "label": "Transaction Shield", "tagline": "This payment vs. your history" },
+  "biometric": { "label": "Biometric Shield", "tagline": "Wearable vital signs" },
+  "context": { "label": "Context Shield", "tagline": "Location and time of day" },
+  "behavior": { "label": "Behavior Shield", "tagline": "Typing and cursor patterns" },
+  "adjudicator": { "label": "Adjudicator", "tagline": "Weighs all four shields" }
+}
