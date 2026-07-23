@@ -1,0 +1,9 @@
+# NeuroSecure / One Shield — Python dependencies.
+# The c1 sandbox packages (c1.genai / c1.aiml) are preinstalled on the cof
+# side and must NOT be pip-installed here.
+fastapi
+uvicorn
+httpx
+langchain-core
+langchain-openai
+langgraph
