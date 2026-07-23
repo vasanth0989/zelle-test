@@ -1,0 +1,10 @@
+{
+  "label": "Remote-access takeover",
+  "biometrics": {"heart_rate": 71, "respiration": 15, "skin_temp_delta": 0.1,
+                  "activity_state": "stationary", "local_time": "15:22"},
+  "context": {"place": {"type": "residence", "class": "home"},
+               "local_time": "15:22", "home_distance_km": 0.0,
+               "first_txn_this_hour": false},
+  "telemetry_override": {"mouse_path_linearity": 0.97, "typing_cadence_var_ms": 2,
+                          "hesitation_before_send_ms": 180, "field_fill": "paste_all"}
+}

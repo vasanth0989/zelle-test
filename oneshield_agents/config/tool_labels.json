@@ -1,0 +1,7 @@
+{
+  "run_biometric_shield": {"shield": "biometric", "label": "Biometric Shield"},
+  "run_presence_shield": {"shield": "behavior", "label": "Presence Shield"},
+  "run_transaction_shield": {"shield": "transaction", "label": "Transaction Shield"},
+  "run_geo_shield": {"shield": "context", "label": "Geo Shield"},
+  "submit_verdict": {"shield": null, "label": "Adjudicator"}
+}

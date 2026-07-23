@@ -1,0 +1,10 @@
+{
+  "label": "Biometric permission declined",
+  "escalate": true,
+  "consent_override": {"biometrics": false},
+  "biometrics_if_granted": {"heart_rate": 74, "respiration": 15,
+      "skin_temp_delta": 0.1, "activity_state": "stationary", "local_time": "20:45"},
+  "context": {"place": {"type": "retail_area", "class": "shopping_district"},
+      "local_time": "20:45", "home_distance_km": 14.0, "first_txn_this_hour": false},
+  "suggested_transaction": {"amount": 950, "payee_first_seen": true}
+}
