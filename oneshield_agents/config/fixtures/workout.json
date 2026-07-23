@@ -1,9 +1,0 @@
-{
-  "label": "False-positive guard: mid-workout",
-  "sentinel_hint": "Wearable alert: heart rate 121 bpm, well above the customer's resting 62 — arrived moments before this payment.",
-  "biometrics": {"heart_rate": 121, "respiration": 26, "skin_temp_delta": 1.1,
-                  "activity_state": "workout_in_progress", "local_time": "18:40"},
-  "context": {"place": {"type": "gym", "class": "fitness_center"},
-               "local_time": "18:40", "home_distance_km": 2.1,
-               "first_txn_this_hour": false}
-}

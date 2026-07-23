@@ -1,8 +1,0 @@
-{
-  "sentinel": { "label": "One Shield", "tagline": "Reads the person, not just the payment" },
-  "biometric": { "label": "Biometric Shield", "tagline": "Wearable vital signs" },
-  "behavior": { "label": "Presence Shield", "tagline": "Is the real account holder in control?" },
-  "context": { "label": "Geo Shield", "tagline": "Does this place and moment make sense?" },
-  "transaction": { "label": "Transaction Shield", "tagline": "Your financial fingerprint" },
-  "adjudicator": { "label": "Adjudicator", "tagline": "Weighs every shield" }
-}

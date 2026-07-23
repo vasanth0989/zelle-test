@@ -1,8 +1,0 @@
-{
-  "label": "Normal Tuesday",
-  "biometrics": {"heart_rate": 68, "respiration": 14, "skin_temp_delta": 0.0,
-                  "activity_state": "stationary", "local_time": "14:05"},
-  "context": {"place": {"type": "residence", "class": "home"},
-               "local_time": "14:05", "home_distance_km": 0.0,
-               "first_txn_this_hour": false}
-}
